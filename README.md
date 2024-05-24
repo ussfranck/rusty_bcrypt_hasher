@@ -18,7 +18,7 @@ In a web application, I needed a way to securely handle passwords for employees 
 
 ## How to Use
 
-
+![Website Preview](https://github.com/ussfranck/rusty_bcrypt_hasher/blob/main/demo.png?raw=true)
 
 1. <strong>Clone the Repository:</strong>
 ``
@@ -47,3 +47,7 @@ To generate a bcrypt hash for the password "my_secure_password":
 This application was developed to solve a specific problem within a web application project. It is a simple tool and may require further enhancements for broader use cases.
 
 Feel free to explore, contribute, and enhance Rusty Bcrypt Hasher!
+
+
+# French🏳️
+Please translate the page🖐️🍸. • Veuillez traduire le page🖐️🍸.
